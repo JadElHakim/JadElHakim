@@ -1,13 +1,23 @@
 ### Welcome to my github page!
+
 <br />
-****************************A little about Myself************************************
 <br />
-I am Jad El Hakim, a student at the Lebanese American University
-I am currently working on a mobile project as well as my final year project 
 <br />
-********************************OCCUPATION***************************************
+
+**************************** A little about Myself ************************************
+
+🔰I am Jad El Hakim, a student at the Lebanese American University
+
+🔰I am currently working on a mobile project as well as my final year project 
+<br /><br />
+
+
+******************************** OCCUPATION ***************************************
+
+
+
+🔰I am a Netwrok Engineer and I am currently looking for a job realted to networking!
 <br />
-I am a Netwrok Engineer and I am currently looking for a job realted to networking!
 <br />
 <br />
 
