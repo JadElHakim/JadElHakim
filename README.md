@@ -16,6 +16,7 @@
 ⸻⸻⸻⸻⸻⸻OCCUPATION⸻⸻⸻⸻⸻⸻⸻
 
 🔰I am a Netwrok Engineer and I am currently looking for a job realted to networking!
+
 🔰I am also interested in front-end web development. And would love to get into the field.
 <br />
 <br />
