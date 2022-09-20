@@ -9,16 +9,16 @@
 
 <br />
 🔰I am Jad El Hakim, a student at the Lebanese American University
-
-🔰I am currently working on a mobile project as well as my final year project 
+🔰I just got my CCNA on the 31st of August
+🔰Optimally i would like to work as a network engineer with a career path way that leads to Network Security and CyberSecurity
 <br /><br />
 
 
 ⸻⸻⸻⸻⸻⸻OCCUPATION⸻⸻⸻⸻⸻⸻⸻
 
-🔰I am a Network Engineer and I am currently looking for a job realted to networking!
+🔰I am a Computer Science Student and I am currently looking for a job realted to networking!
+🔰I am currently working as a mobile front end developer.
 
-🔰I am also interested in front-end development. And would love to get into the field.
 <br />
 <br />
 <br />
