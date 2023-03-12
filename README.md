@@ -8,15 +8,15 @@
 ⸻⸻⸻⸻⸻A little about Myself⸻⸻⸻⸻⸻⸻
 
 <br />
-🔰 Name : Jad El Hakim  
-🔰 Major: Computer Science  
-🔰 Current Job : TEchnical Analyst  
-🔰 Industry: FIn Tech  
-🔰Company : Murex  
+🔰 Name : Jad El Hakim  <br />
+🔰 Major: Computer Science  <br />
+🔰 Current Job : TEchnical Analyst <br /> 
+🔰 Industry: FIn Tech  <br />
+🔰Company : Murex  <br />
 <br />
 🔰Certifications: Cisco Certified Netwrok Associate (Aug 2022)
 <br />
-🔰Technology Has Different Paths Start With One and Your Goals Will be Achieved.
+# Technology Has Different Paths Start With One and Your Goals Will be Achieved.
 <br />
 
 ### Connect with me:
