@@ -8,23 +8,15 @@
 ⸻⸻⸻⸻⸻A little about Myself⸻⸻⸻⸻⸻⸻
 
 <br />
-🔰I am Jad El Hakim, a student at the Lebanese American University
+🔰 Name : Jad El Hakim
+🔰 Major: Computer Science
+🔰 Current Job : TEchnical Analyst
+🔰 Industry: FIn Tech
+🔰Company : Murex
 <br />
-🔰I just got my CCNA on the 31st of August
+🔰Certifications: Cisco Certified Netwrok Associate (Aug 2022)
 <br />
-🔰Optimally i would like to work as a network engineer with a career path way that leads to Network Security and CyberSecurity
-<br />
-
-
-⸻⸻⸻⸻⸻⸻OCCUPATION⸻⸻⸻⸻⸻⸻⸻
-
-🔰I am a Computer Science Student and I am currently looking for a job realted to networking!
-<br />
-🔰I am currently working as a mobile front end developer.
-<br />
-
-<br />
-<br />
+🔰Technology Has Different Paths Start With One and Your Goals Will be Achieved.
 <br />
 
 ### Connect with me:
