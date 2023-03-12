@@ -16,7 +16,9 @@
 <br />
 🔰Certifications: Cisco Certified Netwrok Associate (Aug 2022)
 <br />
-# Technology Has Different Paths Start With One and Your Goals Will be Achieved.
+
+### Technology Has Different Paths Start With One and Your Goals Will be Achieved.
+
 <br />
 
 ### Connect with me:
