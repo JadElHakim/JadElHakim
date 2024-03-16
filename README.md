@@ -42,7 +42,7 @@ I am continuously working to improve these skills and acquire new ones, particul
 
 - **Operating Systems**: Proficient in Linux environments, familiar with standard Linux distributions and command-line utilities.
 - **Relational Database Management Systems (RDBMS)**: Experienced in using MSSQL, Oracle SQL, and Sybase SQL for database management and query optimization.
-- **Scripting and Programming Languages**: Skilled in BASH scripting for automating tasks in Linux environments. Proficient in Python scripting for data manipulation, automation, and backend development. Basic to intermediate knowledge in C and Java, with a strong foundation from academic background.
+- **Scripting and Programming Languages**: Skilled in BASH scripting for automating tasks in Linux environments. Proficient in Python scripting for data manipulation, automation, and backend development. Intermediate knowledge in C and Java, with a strong foundation from academic background.
 - **Monitoring Tools**: Familiarity with system and network monitoring tools (understanding concepts and responding to alerts, even if not directly configuring these systems).
 - **Version Control**: Basic to intermediate experience with version control systems such as Git, including commit management, branching, and merging.
 - **Cloud Services**: Understanding of cloud service models and experience with cloud providers (if applicable), including SaaS platforms.
