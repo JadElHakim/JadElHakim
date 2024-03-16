@@ -47,7 +47,7 @@ I am continuously working to improve these skills and acquire new ones, particul
 - **Scripting and Programming Languages**: Skilled in BASH scripting for automating tasks in Linux environments. Proficient in Python scripting for data manipulation, automation, and backend development. Intermediate knowledge in C and Java, with a strong foundation from academic background.
 - **Monitoring Tools**: Familiarity with system and network monitoring tools (understanding concepts and responding to alerts, even if not directly configuring these systems).
 - **Version Control**: Basic to intermediate experience with version control systems such as Git, including commit management, branching, and merging.
-- **Cloud Services**: Understanding of cloud service models and experience with cloud providers (if applicable), including SaaS platforms.
+- **Cloud Services**: Understanding of cloud service models and experience with cloud providers , including SaaS platforms.
 - **Networking**: Knowledge of networking principles and protocols, supported by CCNA certification. Understanding of network troubleshooting and security basics.
 - **Security Tools and Practices**: Introductory knowledge of security tools and best practices, especially as you're moving towards a cybersecurity-focused role. Familiarity with concepts related to firewalls, intrusion detection systems, and vulnerability assessment.
 
