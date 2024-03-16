@@ -52,9 +52,6 @@ I am continuously working to improve these skills and acquire new ones, particul
 This section covers the primary technologies I've worked with and developed proficiency in throughout my career. I'm continually expanding my skill set to include new tools and technologies, especially in the areas of cybersecurity and advanced system management.
 
 
-**Academic:**
-- Strong foundation in coding, especially in C and Java
-
 ## Looking Ahead
 
 I am keen on transitioning to a cybersecurity-oriented career. I am preparing myself through various certifications and practical experiences, including projects and active participation in platforms like HackTheBox. I am eager to bring my technical analysis background, problem-solving skills, and new cybersecurity knowledge to the field.
