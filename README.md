@@ -20,11 +20,10 @@ I'm passionate about cybersecurity and am actively preparing for a career shift 
 ## Skills
 
 ### Technical Skills:
-- **Incident Management**: Managing and resolving IT incidents with a focus on lifecycle management.
+- **Incident Management**: Managing and resolving incidents with a focus on lifecycle management.
 - **Problem Solving**: Strong analytical skills for identifying root causes and crafting effective solutions.
 - **Communication**: Effective communication of technical information to diverse audiences.
 - **Team Collaboration**: Active participation in and across teams to achieve shared goals.
-- **Project Management**: Involvement in IT projects, demonstrating understanding of project management principles.
 - **Customer Service**: Ensuring client satisfaction through superior service and support.
 - **Continuous Improvement**: Contributing to the enhancement of systems and processes for better performance and reliability.
 - **Security Awareness**: Developing understanding of cybersecurity principles in preparation for a career shift.
