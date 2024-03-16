@@ -35,8 +35,10 @@ I'm passionate about cybersecurity and am actively preparing for a career shift 
 - **Learning Agility**: Eager to learn new technologies and methodologies.
 - **Attention to Detail**: Ensuring accuracy in technical diagnosis and documentation.
 - **Resilience**: Maintaining effectiveness under pressure, especially during critical incidents.
+- **Client Relations**: Excellent client-facing skills, including empathy, active listening, and the ability to communicate complex technical issues in an understandable manner. Proven track record of building strong relationships with clients and providing high-level support.
 
 I am continuously working to improve these skills and acquire new ones, particularly in the field of cybersecurity, as I transition into this area.
+
 
 ## Technologies
 
